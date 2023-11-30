@@ -1,1 +1,1 @@
-# gen-ai-training
+# Gen-AI RAG Case Study
